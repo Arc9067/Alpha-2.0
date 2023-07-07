@@ -29,7 +29,7 @@ const About = () => {
               data-aos="zoom-in"
               data-aos-duration="1500"
             >
-              With a loyal following howling at its every move. With a market
+              With a loyal followin howling at its every move. With a market
               presence as fierce as a wolf's howl and a value that grows like a
               pack's unity, Alpha2.0 paves the path towards innovation and
               prosperity, leaving a lasting legacy in the ever-evolving crypto
