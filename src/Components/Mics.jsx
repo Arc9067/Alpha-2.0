@@ -34,14 +34,14 @@ const Mics = () => {
               data-aos="fade-right"
               data-aos-duration="900"
             >
-              10% for Marketing & Partnerships
+              90% supply in Liquidity Pool
             </div>
             <div
               className="text-white text-2xl text-start"
               data-aos="fade-right"
               data-aos-duration="900"
             >
-              90% supply in Liquidity Pool
+              10% for Marketing & Partnerships
             </div>
           </article>
           <article className="flex flex-col gap-7 items-center justify-center font-wendyOne ">
