@@ -22,7 +22,8 @@ const Hero = () => {
           </p>
           <a
             href="https://t.me/Alpha2_0"
-            className=" px-8 py-4 bg-white rounded shadow text-lime-700 uppercase font-Header"
+            target="_blank"
+            className=" px-8 py-4 bg-white rounded shadow text-lime-700 uppercase font-sans2 font-black"
             data-aos="fade-right"
             data-aos-duration="900"
           >

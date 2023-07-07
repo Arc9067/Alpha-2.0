@@ -36,7 +36,8 @@ const About = () => {
               wilderness.
             </p>
             <a
-              href=""
+              href="https://t.me/Alpha2_0"
+              target="_blank"
               className=" px-8 py-4 bg-lime-700 rounded shadow text-white uppercase font-sans2 font-bold"
               data-aos="flip-left"
               data-aos-duration="1500"

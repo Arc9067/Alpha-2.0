@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container flex flex-col gap-8 justify-center items-center">
         <img src={HeaderLogo} alt="" className="w-[8rem]" />
         <div className="flex gap-5 items-center flex-wrap justify-center md:flex-nowrap">
-          <a href="" className="">
+          <a href="https://twitter.com/alpha_2_0_" target="_blank" className="">
             <svg
               width="55"
               height="55"
@@ -25,7 +25,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="" className="">
+          <a href="https://t.me/Alpha2_0" target="_blank" className="">
             <svg
               width="55"
               height="55"
@@ -95,24 +95,6 @@ const Footer = () => {
                   />
                 </clipPath>
               </defs>
-            </svg>
-          </a>
-          <a href="" className="">
-            <svg
-              width="55"
-              height="55"
-              viewBox="0 0 55 55"
-              fill="none"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M27.5 0.5L50.8827 14V41L27.5 54.5L4.11731 41V14L27.5 0.5Z"
-                fill="white"
-              />
-              <path
-                d="M35.5 23.5L27.5 28.5L19.5 23.5V21.5L27.5 26.5L35.5 21.5M35.5 19.5H19.5C18.39 19.5 17.5 20.39 17.5 21.5V33.5C17.5 34.0304 17.7107 34.5391 18.0858 34.9142C18.4609 35.2893 18.9696 35.5 19.5 35.5H35.5C36.0304 35.5 36.5391 35.2893 36.9142 34.9142C37.2893 34.5391 37.5 34.0304 37.5 33.5V21.5C37.5 20.9696 37.2893 20.4609 36.9142 20.0858C36.5391 19.7107 36.0304 19.5 35.5 19.5Z"
-                fill="#498800"
-              />
             </svg>
           </a>
         </div>
