@@ -9,7 +9,7 @@ const Header = () => {
       <nav className="flex overflow-hidden  md:justify-between lg:justify-start items-center p-4 bg-lime-800 rounded-lg gap-10">
         <a
           href=""
-          className="uppercase font-Header w-[8rem] text-3xl hover:text-black"
+          className="uppercase  w-[8rem] text-3xl hover:text-black"
           data-aos="fade-right"
           data-aos-duration="1500"
         >
