@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container grid grid-cols-1 lg:grid-cols-2 justify-between items-center gap-16">
         <article className="flex flex-col gap-8 items-start">
           <h1
-            className="font-Header  text-white text-7xl lg:text-8xl md:leading-relaxed"
+            className="font-sans2 font-bold  text-white text-6xl lg:text-7xl uppercase md:leading-relaxed"
             data-aos="fade-right"
             data-aos-duration="700"
           >
@@ -21,7 +21,7 @@ const Hero = () => {
             jungle, guiding other tokens and setting the trend.
           </p>
           <a
-            href=""
+            href="https://t.me/Alpha2_0"
             className=" px-8 py-4 bg-white rounded shadow text-lime-700 uppercase font-Header"
             data-aos="fade-right"
             data-aos-duration="900"

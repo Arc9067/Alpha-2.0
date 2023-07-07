@@ -17,7 +17,7 @@ const Header = () => {
         </a>
 
         <ul
-          className="hidden lg:flex gap-9 items-center ml-auto"
+          className="hidden lg:flex gap-9 items-center ml-auto font-sans font-bold"
           data-aos="fade-up"
           data-aos-duration="1000"
         >
@@ -49,7 +49,7 @@ const Header = () => {
         </ul>
         <a
           href=""
-          className="md:block hidden px-8 py-4 bg-white rounded shadow text-amber-600 uppercase font-Header"
+          className="md:block hidden px-8 py-4 bg-white rounded shadow text-amber-600 uppercase font-sans2 font-bold"
           data-aos="fade-left"
           data-aos-duration="900"
         >

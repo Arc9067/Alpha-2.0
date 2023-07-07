@@ -6,14 +6,14 @@ const Mics = () => {
     <section className="py-small bg-lime-700 w-full" id="tokenomics">
       <div className="container flex justify-center items-center flex-col ">
         <h1
-          className="font-Header text-6xl break-all text-green-100 lg:text-9xl uppercase"
+          className="font-sans2 font-black text-5xl break-all text-green-100 lg:text-9xl uppercase"
           data-aos="zoom-in"
           data-aos-duration="1500"
         >
           tokenomics
         </h1>
         <div className="w-full grid gap-14 justify-between items-center lg:grid-cols-2 mt-14">
-          <article className="flex flex-col gap-6 items-start text-center">
+          <article className="flex font-medium flex-col gap-6 items-start text-center">
             <img src={mic} alt="" data-aos="zoom-in" data-aos-duration="400" />
             <div
               className="text-white text-2xl text-start"
@@ -35,6 +35,13 @@ const Mics = () => {
               data-aos-duration="900"
             >
               10% for Marketing & Partnerships
+            </div>
+            <div
+              className="text-white text-2xl text-start"
+              data-aos="fade-right"
+              data-aos-duration="900"
+            >
+              90% supply in Liquidity Pool
             </div>
           </article>
           <article className="flex flex-col gap-7 items-center justify-center font-wendyOne ">

@@ -16,7 +16,7 @@ const App = () => {
     });
   }, []);
   return (
-    <div className="min-h-screen w-full relative text-white font-para flex justify-center flex-col items-center overflow-x-hidden">
+    <div className="min-h-screen w-full relative text-white font-sans flex justify-center flex-col items-center overflow-x-hidden">
       <Header />
       <Hero />
       <About />

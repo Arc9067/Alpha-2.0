@@ -6,7 +6,7 @@ const About = () => {
     <section className="w-full py-small bg-gray-100 text-yellow-700" id="about">
       <div className="container flex justify-center items-center flex-col ">
         <h1
-          className="font-Header text-6xl break-all text-center text-lime-700 lg:text-9xl uppercase"
+          className="font-sans2 font-black text-5xl break-all text-center text-lime-700 lg:text-8xl uppercase"
           data-aos="zoom-out"
           data-aos-duration="1500"
         >
@@ -18,10 +18,10 @@ const About = () => {
 
           <article className="flex flex-col gap-8 items-start">
             <h1
-              className="font-Header text-4xl uppercase lg:text-6xl leading-[140%]"
+              className="font-sans font-bold font-bold text-4xl uppercase lg:text-6xl leading-[140%]"
               data-aos="zoom-in"
               data-aos-duration="900"
-            > 
+            >
               the charismatic and fearless leader
             </h1>
             <p
@@ -37,7 +37,7 @@ const About = () => {
             </p>
             <a
               href=""
-              className=" px-8 py-4 bg-lime-700 rounded shadow text-white uppercase font-Header"
+              className=" px-8 py-4 bg-lime-700 rounded shadow text-white uppercase font-sans2 font-bold"
               data-aos="flip-left"
               data-aos-duration="1500"
             >
