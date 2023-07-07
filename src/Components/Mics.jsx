@@ -52,23 +52,6 @@ const Mics = () => {
             >
               <div className="justify-start items-start gap-[43px] inline-flex">
                 <div className="text-lime-700 text-[24px] font-semibold leading-loose">
-                  Marketing
-                </div>
-                <div className="justify-start items-center gap-3 flex">
-                  <div className="text-lime-700 text-[24px] font-semibold leading-loose">
-                    10%
-                  </div>
-                  <div className="w-[25px] h-[25px] relative bg-lime-500 rounded" />
-                </div>
-              </div>
-            </div>
-            <div
-              data-aos="fade-right"
-              data-aos-duration="600"
-              className=" h-[90px] px-[29px] py-7 bg-white rounded-lg flex-col justify-start items-start gap-2.5 inline-flex"
-            >
-              <div className="justify-start items-start gap-[43px] inline-flex">
-                <div className="text-lime-700 text-[24px] font-semibold leading-loose">
                   Buy Tax
                 </div>
                 <div className="justify-start items-center gap-3 flex">
