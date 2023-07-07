@@ -27,7 +27,14 @@ const Mics = () => {
               data-aos="fade-right"
               data-aos-duration="900"
             >
-              Token will be locked and renounced.
+              Token Will Be Locked & Renounced.
+            </div>
+            <div
+              className="text-white text-2xl text-start"
+              data-aos="fade-right"
+              data-aos-duration="900"
+            >
+              10% for Marketing & Partnerships
             </div>
           </article>
           <article className="flex flex-col gap-7 items-center justify-center font-wendyOne ">
@@ -50,38 +57,38 @@ const Mics = () => {
             </div>
             <div
               data-aos="fade-right"
-              data-aos-duration="800"
-              className="w-80 h-[90px] px-[29px] py-7 bg-white rounded-lg flex-col justify-start items-start gap-2.5 inline-flex"
+              data-aos-duration="600"
+              className=" h-[90px] px-[29px] py-7 bg-white rounded-lg flex-col justify-start items-start gap-2.5 inline-flex"
             >
               <div className="justify-start items-start gap-[43px] inline-flex">
                 <div className="text-lime-700 text-[24px] font-semibold leading-loose">
-                  Total Tax
+                  Buy Tax
                 </div>
                 <div className="justify-start items-center gap-3 flex">
-                  <div className="text-white text-[24px] font-semibold leading-loose">
+                  <div className="text-lime-700 text-[24px] font-semibold leading-loose">
                     1%
                   </div>
                   <div className="w-[25px] h-[25px] relative bg-lime-500 rounded" />
                 </div>
               </div>
-            </div>
+            </div>{" "}
             <div
               data-aos="fade-right"
-              data-aos-duration="1000"
-              className="h-[90px] px-[29px] py-7 bg-white rounded-lg flex-col justify-start items-start gap-2.5 inline-flex"
+              data-aos-duration="600"
+              className=" h-[90px] px-[29px] py-7 bg-white rounded-lg flex-col justify-start items-start gap-2.5 inline-flex"
             >
               <div className="justify-start items-start gap-[43px] inline-flex">
                 <div className="text-lime-700 text-[24px] font-semibold leading-loose">
-                  Liquidity
+                  Sell Tax
                 </div>
                 <div className="justify-start items-center gap-3 flex">
                   <div className="text-lime-700 text-[24px] font-semibold leading-loose">
-                    10%
+                    1%
                   </div>
                   <div className="w-[25px] h-[25px] relative bg-lime-500 rounded" />
                 </div>
               </div>
-            </div>
+            </div>{" "}
           </article>
         </div>{" "}
       </div>
