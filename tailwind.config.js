@@ -16,9 +16,6 @@ export default {
     extend: {
       colors: {},
       fontFamily: {
-        Header: ["Luckiest Guy", "sans-serif"],
-        para: ["Gorditas", "cursive"],
-        special: ["Titan One", "sans-serif"],
         sans: ["Roboto", "sans-serif"],
         sans2: ["Work Sans", "sans-serif"],
       },
